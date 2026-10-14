@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33441895/README.md)
 # 📚 StudyLens — AI Study Assistant
 
 A **document-grounded study application** built with Python and Streamlit. Upload PDF, TXT, or Markdown notes; search them using TF-IDF retrieval; optionally generate AI answers with source citations; and practice with automatically generated fill-in-the-blank questions.

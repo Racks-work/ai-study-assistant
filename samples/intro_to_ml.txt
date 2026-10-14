@@ -1,0 +1,7 @@
+Introduction to Machine Learning
+
+Machine learning is a field of computer science that develops systems that learn patterns from data rather than following only explicitly programmed rules. Supervised learning uses labeled examples to learn a mapping from inputs to outputs. Classification predicts categories such as whether an email is spam. Regression predicts continuous values such as house prices.
+
+Unsupervised learning explores patterns in unlabeled data. Clustering groups similar observations, while dimensionality reduction creates a smaller representation of features. A training dataset is used to fit model parameters, while a separate test dataset is used to estimate generalization performance.
+
+Overfitting happens when a model memorizes training patterns that do not generalize to new examples. Cross-validation helps evaluate model performance across multiple data splits. Precision measures the fraction of predicted positives that are actually positive, while recall measures the fraction of actual positives identified by the model.
